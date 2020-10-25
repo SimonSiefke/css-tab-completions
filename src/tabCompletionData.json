@@ -212,6 +212,10 @@
     "gtr": "grid-template-rows: ",
     "grid-template-rows": "grid-template-rows: "
   },
+  "font-variant-numeric": {
+    "fvn": "font-variant-numeric: ",
+    "font-variant-numeric": "font-variant-numeric: "
+  },
   "hanging-punctuation": {
     "hanging-punctuation": "hanging-punctuation: "
   },

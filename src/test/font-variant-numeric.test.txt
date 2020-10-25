@@ -1,0 +1,17 @@
+--------------------
+
+input:
+font-variant-numeric
+
+output:
+font-variant-numeric: 
+
+--------------------
+
+input:
+fvn
+
+output:
+font-variant-numeric: 
+
+--------------------
