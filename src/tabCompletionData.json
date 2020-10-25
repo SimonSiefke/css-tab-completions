@@ -289,6 +289,10 @@
     "m": "margin:",
     "margin": "margin: "
   },
+  "mask-image": {
+    "mai": "mask-image: ",
+    "mask-image": "mask-image: "
+  },
   "max-height": {
     "mah": "max-height: ",
     "max-height": "max-height: "

@@ -5,6 +5,7 @@
   "main": "dist/extensionMain.js",
   "scripts": {
     "dev": "tsc -w",
+    "generate-tests": "node src/test/test-util/generateTestCases.js",
     "test": "jest"
   },
   "engines": {

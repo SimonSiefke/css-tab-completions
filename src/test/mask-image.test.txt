@@ -1,0 +1,17 @@
+--------------------
+
+input:
+mask-image
+
+output:
+mask-image: 
+
+--------------------
+
+input:
+mai
+
+output:
+mask-image: 
+
+--------------------
