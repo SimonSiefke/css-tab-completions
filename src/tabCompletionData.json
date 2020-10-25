@@ -151,6 +151,7 @@
   "position": {
     "posa": "position: absolute;",
     "posf": "position: fixed;",
+    "posr": "position: relative;",
     "position": "position: "
   },
   "right": {
