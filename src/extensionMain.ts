@@ -1,13 +1,14 @@
 import * as vscode from 'vscode'
 import { getTabCompletion } from './tabCompletion'
 
+const RE_WORD = /[a-zA-Z\-]+/
+
 const cssTabCompletion = (textEditor: vscode.TextEditor) => {
   const wordRange = textEditor.document.getWordRangeAtPosition(
     textEditor.selection.active,
-    /[a-zA-Z\-]+/,
+    RE_WORD,
   )
   const partialWord = textEditor.document.getText(wordRange)
-  console.log(partialWord)
   const tabCompletion = getTabCompletion(partialWord)
   if (tabCompletion) {
     textEditor.insertSnippet(new vscode.SnippetString(tabCompletion), wordRange)

@@ -1,8 +1,4 @@
-import _tabCompletionData from './tabCompletionData.json'
-
-const tabCompletionData = _tabCompletionData as {
-  [key: string]: { [key: string]: string }
-}
+import tabCompletionData from './tabCompletionData.json'
 
 const abbreviationMap = Object.fromEntries(
   Object.values(tabCompletionData).flatMap(Object.entries),
