@@ -1,4 +1,7 @@
 {
+  "all": {
+    "au": "all: unset;"
+  },
   "align-items": {
     "ai": "align-items: ",
     "aic": "align-items: center;",
@@ -9,11 +12,22 @@
     "ase": "align-self: end;",
     "align-self": "align-self: "
   },
+  "animation": {
+    "an": "animation: "
+  },
   "appearance": {
     "ap": "appearance: none;",
     "an": "appearance: none;",
     "apn": "appearance: none;",
     "appearance": "appearance: none;"
+  },
+  "backface-visibility": {
+    "bfvh": "backface-visibility: hidden;",
+    "backface-visibility": "backface-visibility: hidden;"
+  },
+  "background-attachment": {
+    "baf": "background-attachment: fixed;",
+    "background-attachment": "background-attachment: fixed;"
   },
   "background-color": {
     "bgc": "background-color: ",
@@ -31,6 +45,10 @@
   "border-bottom": {
     "bb": "border-bottom: ",
     "border-bottom": "border-bottom: "
+  },
+  "border-color": {
+    "bc": "border-color: ",
+    "border-color": "border-color: "
   },
   "border-radius": {
     "br": "border-radius: ",
@@ -86,6 +104,7 @@
   },
   "font-weight": {
     "fwn": "font-weight: normal;",
+    "fwb": "font-weight: bold;",
     "font-weight": "font-weight: "
   },
   "gap": {
@@ -108,6 +127,10 @@
     "l": "left:",
     "left": "left: "
   },
+  "letter-spacing": {
+    "les": "letter-spacing: ",
+    "letter-spacing": "letter-spacing: "
+  },
   "line-height": {
     "lh": "line-height: ",
     "line-height": "line-height: "
@@ -115,6 +138,18 @@
   "list-style": {
     "ls": "list-style: none;",
     "list-style": "list-style: "
+  },
+  "list-style-type": {
+    "lst": "list-style-type: ",
+    "list-style-type": "list-style-type: "
+  },
+  "list-style-position": {
+    "lsp": "list-style-position: ",
+    "list-style-position": "list-style-position: "
+  },
+  "list-style-image": {
+    "lsi": "list-style-image: ",
+    "list-style-image": "list-style-image: "
   },
   "margin-left": {
     "ml": "margin-left: ",
@@ -149,6 +184,10 @@
     "oln": "outline: none;",
     "outline": "outline: "
   },
+  "outline-width": {
+    "ow": "outline-width: ",
+    "outline-width": "outline-width: "
+  },
   "overflow": {
     "oh": "overflow: hidden;",
     "overflow": "overflow: hidden;"
@@ -177,6 +216,7 @@
     "pointer-events": "pointer-events: "
   },
   "position": {
+    "p": "position: ",
     "psa": "position: absolute;",
     "psf": "position: fixed;",
     "psr": "position: relative;",

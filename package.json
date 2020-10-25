@@ -25,7 +25,8 @@
     "keybindings": [
       {
         "command": "css-tab-completion",
-        "key": "Tab"
+        "key": "Tab",
+        "when": "!suggestWidgetVisible"
       }
     ]
   },

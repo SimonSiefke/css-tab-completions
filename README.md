@@ -7,7 +7,7 @@
 ```jsonc
 // settings.json
 {
-  "emmet.excludeLanguages": ["css"]
+  "emmet.excludeLanguages": ["css", "scss", "sass"]
 }
 ```
 

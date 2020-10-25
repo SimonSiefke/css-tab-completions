@@ -1,11 +1,4 @@
 {
-  "cSpell.words": [
-    "bgsc",
-    "bsbb",
-    "cuna",
-    "plac",
-    "posa",
-    "posf",
-    "posr"
-  ]
+  "cSpell.words": ["bgsc", "bsbb", "cuna", "plac", "posa", "posf", "posr"],
+  "emmet.excludeLanguages": []
 }
