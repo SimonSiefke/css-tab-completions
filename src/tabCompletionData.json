@@ -50,6 +50,10 @@
     "bc": "border-color: ",
     "border-color": "border-color: "
   },
+  "border-collapse": {
+    "bcc": "border-collapse: collapse",
+    "border-collapse": "border-collapse: "
+  },
   "border-radius": {
     "br": "border-radius: ",
     "border-radius": "border-radius: "
@@ -61,22 +65,44 @@
     "b": "bottom: ",
     "bottom": "bottom: "
   },
+  "box-shadow": {
+    "bs": "box-shadow: "
+  },
   "box-sizing": {
     "bsbb": "box-sizing: border-box;",
     "box-sizing": "box-sizing: "
+  },
+  "caret-color": {
+    "cc": "caret-color: ",
+    "caret-color": "caret-color: "
+  },
+  "clip": {
+    "cl": "clip: ",
+    "clip": "clip: "
   },
   "color": {
     "c": "color: ",
     "color": "color: "
   },
+  "content": {
+    "cn": "content: '';",
+    "content": "content: '';"
+  },
   "contain": {
     "cs": "contain: strict;",
     "contain": "contain: "
+  },
+  "column-gap": {
+    "cg": "column-gap: ",
+    "column-gap": "column-gap: "
   },
   "cursor": {
     "cu": "cursor: ",
     "cuna": "cursor: not-allowed",
     "cursor": "cursor: "
+  },
+  "counter-reset": {
+    "counter-reset": "counter-reset: "
   },
   "display": {
     "d": "display: ",
@@ -86,9 +112,30 @@
     "dg": "display: grid;",
     "display": "display: "
   },
+  "filter": {
+    "f": "filter: ",
+    "filter": "filter: "
+  },
+  "flex-basis": {
+    "fb": "flex-basis: ",
+    "flex-basis": "flex-basis: "
+  },
+  "flex-direction": {
+    "fd": "flex-direction: ",
+    "fdc": "flex-direction: column;",
+    "flex-direction": "flex-direction: column;"
+  },
   "flex-grow": {
     "fg": "flex-grow: ",
     "flex-grow": "flex-grow: "
+  },
+  "flex-shrink": {
+    "fsh": "flex-shrink: ",
+    "flex-shrink": "flex-shrink: "
+  },
+  "flex-wrap": {
+    "flw": "flex-wrap:",
+    "flex-wrap": "flex-wrap: "
   },
   "font-family": {
     "ff": "font-family: ",
@@ -115,6 +162,14 @@
     "ga": "grid-area",
     "grid-area": "grid-area: "
   },
+  "grid-auto-columns": {
+    "gac": "grid-auto-columns: ",
+    "grid-auto-columns": "grid-auto-columns: "
+  },
+  "grid-template-rows": {
+    "gtr": "grid-template-rows: ",
+    "grid-template-rows": "grid-template-rows: "
+  },
   "height": {
     "h": "height: ",
     "height": "height: "
@@ -124,7 +179,7 @@
     "justify-content": "justify-content: "
   },
   "left": {
-    "l": "left:",
+    "l": "left: ",
     "left": "left: "
   },
   "letter-spacing": {
@@ -179,6 +234,14 @@
     "maw": "max-width: ",
     "max-width": "max-width: "
   },
+  "opacity": {
+    "o": "opacity: ",
+    "opacity": "opacity: "
+  },
+  "object-fit": {
+    "ofc": "object-fit: cover",
+    "object-fit": "object-fit: "
+  },
   "outline": {
     "ol": "outline:",
     "oln": "outline: none;",
@@ -192,6 +255,12 @@
     "oh": "overflow: hidden;",
     "overflow": "overflow: hidden;"
   },
+  "overflow-x": {
+    "overflow-x": "overflow-x: "
+  },
+  "overflow-y": {
+    "overflow-y": "overflow-y: "
+  },
   "padding": {
     "p": "padding: ",
     "padding": "padding: "
@@ -203,6 +272,9 @@
   "padding-right": {
     "pr": "padding-right: ",
     "padding-right": "padding-right: "
+  },
+  "perspective": {
+    "perspective": "perspective: "
   },
   "place-items": {
     "pla": "place-items: ",
@@ -222,9 +294,25 @@
     "psr": "position: relative;",
     "position": "position: "
   },
+  "resize": {
+    "rn": "resize: none;",
+    "rb": "resize: both;",
+    "resize": "resize: "
+  },
   "right": {
-    "r": "right",
+    "r": "right: ",
     "right": "right: "
+  },
+  "row-gap": {
+    "rg": "row-gap: ",
+    "row-gap": "row-gap: "
+  },
+  "scroll-behavior": {
+    "sbs": "scroll-behavior: smooth"
+  },
+  "tab-size": {
+    "ts": "tab-size: ",
+    "tab-size": "tab-size: "
   },
   "text-align": {
     "tac": "text-align: center;",
@@ -235,12 +323,47 @@
     "tdn": "text-decoration: none;",
     "text-decoration": "text-decoration: "
   },
+  "text-indent": {
+    "ti": "text-indent: ",
+    "text-indent": "text-indent: "
+  },
+  "text-overflow": {
+    "toe": "text-overflow: ellipsis",
+    "text-overflow": "text-overflow: "
+  },
   "text-transform": {
     "ttu": "text-transform: uppercase;",
     "text-transform": "text-transform: "
   },
+  "transform-origin": {
+    "to": "transform-origin: ",
+    "transform-origin": "transform-origin: "
+  },
+  "user-select": {
+    "usn": "user-select: none;",
+    "user-select": "user-select: "
+  },
+  "visibility": {
+    "vh": "visibility: hidden;",
+    "visibility": "visibility: "
+  },
+  "white-space": {
+    "wsn": "white-space: nowrap",
+    "white-space": "white-space: "
+  },
   "width": {
     "w": "width: ",
     "width": "width: "
+  },
+  "word-spacing": {
+    "ws": "word-spacing: ",
+    "word-spacing": "word-spacing: "
+  },
+  "writing-mode": {
+    "writing-mode": "writing-mode: "
+  },
+  "z-index": {
+    "z": "z-index: ",
+    "z-index": "z-index: "
   }
 }
