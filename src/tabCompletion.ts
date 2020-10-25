@@ -5,10 +5,10 @@ const tabCompletionData = _tabCompletionData as {
 }
 
 const abbreviationMap = Object.fromEntries(
-  Object.values(tabCompletionData).flatMap((x) => Object.entries(x)), //?
+  Object.values(tabCompletionData).flatMap(Object.entries),
 )
 
-export const getTabCompletion = (partialWord: string): string => {
+export const getTabCompletion = (partialWord: string): string | undefined => {
   const result = abbreviationMap[partialWord]
-  return result || ''
+  return result
 }
