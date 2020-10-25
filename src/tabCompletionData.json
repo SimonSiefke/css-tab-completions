@@ -413,7 +413,7 @@
     "text-indent": "text-indent: "
   },
   "text-overflow": {
-    "toe": "text-overflow: ellipsis",
+    "toe": "text-overflow: ellipsis;",
     "text-overflow": "text-overflow: "
   },
   "text-transform": {

@@ -1,0 +1,25 @@
+--------------------
+
+input:
+d
+
+output:
+display: |
+
+--------------------
+
+input:
+text-overflow
+
+output:
+text-overflow: 
+
+--------------------
+
+input:
+toe
+
+output:
+text-overflow: ellipsis;
+
+--------------------
