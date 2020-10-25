@@ -14,7 +14,7 @@
     "Other"
   ],
   "activationEvents": [
-    "*"
+    "onCommand:css-tab-completion"
   ],
   "contributes": {
     "commands": [
