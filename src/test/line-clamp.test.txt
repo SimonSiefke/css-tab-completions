@@ -1,0 +1,17 @@
+--------------------
+
+input:
+line-clamp
+
+output:
+line-clamp: 
+
+--------------------
+
+input:
+lc
+
+output:
+line-clamp: 
+
+--------------------

@@ -245,6 +245,10 @@
     "ls": "letter-spacing: ",
     "letter-spacing": "letter-spacing: "
   },
+  "line-clamp": {
+    "lc": "line-clamp: ",
+    "line-clamp": "line-clamp: "
+  },
   "line-height": {
     "lh": "line-height: ",
     "line-height": "line-height: "
