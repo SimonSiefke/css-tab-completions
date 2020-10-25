@@ -1,0 +1,17 @@
+--------------------
+
+input:
+ap
+
+output:
+appearance: none;
+
+--------------------
+
+input:
+apn
+
+output:
+appearance: none;
+
+--------------------

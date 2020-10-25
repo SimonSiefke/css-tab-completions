@@ -1,0 +1,17 @@
+--------------------
+
+input:
+border-bottom
+
+output:
+border-bottom: |
+
+--------------------
+
+input:
+bb
+
+output:
+border-bottom: |
+
+--------------------

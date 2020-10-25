@@ -1,0 +1,17 @@
+--------------------
+(skip)
+input:
+spek
+
+output:
+speak: |
+
+--------------------
+
+input:
+speak
+
+output:
+speak: |
+
+--------------------

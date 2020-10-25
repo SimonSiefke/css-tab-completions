@@ -1,0 +1,17 @@
+--------------------
+
+input:
+ol
+
+output:
+outline:
+
+--------------------
+
+input:
+oln
+
+output:
+outline: none;
+
+--------------------

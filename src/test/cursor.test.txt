@@ -1,0 +1,25 @@
+--------------------
+
+input:
+cursor
+
+output:
+cursor: 
+
+--------------------
+
+input:
+cuna
+
+output:
+cursor: not-allowed;
+
+--------------------
+
+input:
+cu
+
+output:
+cursor: 
+
+--------------------

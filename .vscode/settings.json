@@ -1,16 +1,21 @@
 {
+  "files.trimTrailingWhitespace": false,
   "cSpell.words": [
     "bdbs",
     "bfvh",
     "bgsc",
     "bsbb",
+    "bxshn",
     "cuna",
     "lspo",
     "nowrap",
     "plac",
+    "pointerevents",
     "posa",
     "posf",
-    "posr"
+    "posr",
+    "spek",
+    "textalign"
   ],
   "emmet.excludeLanguages": []
 }

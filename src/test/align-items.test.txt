@@ -1,0 +1,17 @@
+--------------------
+
+input:
+ai
+
+output:
+align-items: 
+
+--------------------
+
+input:
+aic
+
+output:
+align-items: center;
+
+--------------------

@@ -1,0 +1,17 @@
+--------------------
+
+input:
+box-shadow
+
+output:
+box-shadow: 
+
+--------------------
+
+input:
+bsn
+
+output:
+box-shadow: none;
+
+--------------------

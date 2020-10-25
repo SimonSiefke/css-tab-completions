@@ -1,0 +1,49 @@
+--------------------
+
+input:
+text-align
+
+output:
+text-align: 
+
+--------------------
+
+input:
+tac
+
+output:
+text-align: center;
+
+--------------------
+
+input:
+taj
+
+output:
+text-align: justify;
+
+--------------------
+
+input:
+tar
+
+output:
+text-align: right;
+
+--------------------
+
+input:
+tal
+
+output:
+text-align: left;
+
+--------------------
+(skip)
+input:
+textalign
+
+output:
+text-align: 
+
+--------------------

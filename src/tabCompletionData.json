@@ -89,7 +89,9 @@
     "box-decoration-break": "box-decoration-break: "
   },
   "box-shadow": {
-    "bs": "box-shadow: "
+    "bsn": "box-shadow: none;",
+    "bs": "box-shadow: ",
+    "box-shadow": "box-shadow: "
   },
   "box-sizing": {
     "bsbb": "box-sizing: border-box;",
@@ -121,7 +123,7 @@
   },
   "cursor": {
     "cu": "cursor: ",
-    "cuna": "cursor: not-allowed",
+    "cuna": "cursor: not-allowed;",
     "cursor": "cursor: "
   },
   "counter-reset": {
@@ -195,11 +197,11 @@
     "font-weight": "font-weight: "
   },
   "gap": {
-    "g": "gap",
+    "g": "gap: ",
     "gap": "gap: "
   },
   "grid-area": {
-    "ga": "grid-area",
+    "ga": "grid-area: ",
     "grid-area": "grid-area: "
   },
   "grid-auto-columns": {
@@ -343,16 +345,17 @@
     "place-items": "place-items: "
   },
   "pointer-events": {
-    "pe": "pointer-events: none;",
+    "pe": "pointer-events: ",
     "pen": "pointer-events: none;",
     "pea": "pointer-events: auto;",
     "pointer-events": "pointer-events: "
   },
   "position": {
-    "p": "position: ",
+    "ps": "position: ",
     "psa": "position: absolute;",
     "psf": "position: fixed;",
     "psr": "position: relative;",
+    "pss": "position: static;",
     "position": "position: "
   },
   "resize": {
@@ -383,6 +386,9 @@
   },
   "text-align": {
     "tac": "text-align: center;",
+    "taj": "text-align: justify;",
+    "tar": "text-align: right;",
+    "tal": "text-align: left;",
     "text-align": "text-align: "
   },
   "text-decoration": {
@@ -401,6 +407,10 @@
   "text-transform": {
     "ttu": "text-transform: uppercase;",
     "text-transform": "text-transform: "
+  },
+  "top": {
+    "t": "top: ",
+    "top": "top: "
   },
   "transform-origin": {
     "to": "transform-origin: ",
@@ -437,6 +447,10 @@
   "word-spacing": {
     "ws": "word-spacing: ",
     "word-spacing": "word-spacing: "
+  },
+  "word-wrap": {
+    "ww": "word-wrap: ",
+    "word-wrap": "word-wrap: "
   },
   "writing-mode": {
     "writing-mode": "writing-mode: "

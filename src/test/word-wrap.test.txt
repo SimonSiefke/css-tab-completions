@@ -1,0 +1,17 @@
+--------------------
+
+input:
+word-wrap
+
+output:
+word-wrap: 
+
+--------------------
+
+input:
+ww
+
+output:
+word-wrap: 
+
+--------------------

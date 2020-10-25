@@ -1,0 +1,17 @@
+--------------------
+
+input:
+plac
+
+output:
+place-items: center;
+
+--------------------
+
+input:
+pla
+
+output:
+place-items: |
+
+--------------------

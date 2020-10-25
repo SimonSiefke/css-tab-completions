@@ -1,0 +1,41 @@
+--------------------
+(skip)
+input:
+pointerevents
+
+output:
+pointer-events: |
+
+--------------------
+
+input:
+pe
+
+output:
+pointer-events: |
+
+--------------------
+
+input:
+pen
+
+output:
+pointer-events: none;|
+
+--------------------
+
+input:
+pea
+
+output:
+pointer-events: auto;|
+
+--------------------
+(skip)
+input:
+point-events
+
+output:
+pointer-events: |
+
+--------------------

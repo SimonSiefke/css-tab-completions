@@ -1,0 +1,17 @@
+--------------------
+
+input:
+box-sizing
+
+output:
+box-sizing: |
+
+--------------------
+
+input:
+bsbb
+
+output:
+box-sizing: border-box;|
+
+--------------------

@@ -1,0 +1,33 @@
+--------------------
+
+input:
+d
+
+output:
+display: |
+
+--------------------
+
+input:
+db
+
+output:
+display: block;
+
+--------------------
+
+input:
+df
+
+output:
+display: flex;
+
+--------------------
+
+input:
+dn
+
+output:
+display: none;
+
+--------------------

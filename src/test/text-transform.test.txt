@@ -1,0 +1,9 @@
+--------------------
+
+input:
+ttu
+
+output:
+text-transform: uppercase;
+
+--------------------

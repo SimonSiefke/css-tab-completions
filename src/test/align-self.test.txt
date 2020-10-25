@@ -1,0 +1,17 @@
+--------------------
+
+input:
+as
+
+output:
+align-self: 
+
+--------------------
+
+input:
+ase
+
+output:
+align-self: end;
+
+--------------------
