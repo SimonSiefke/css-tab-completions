@@ -27,7 +27,7 @@ const createExpectBlock = (block) => {
   }
   const skip = match[1]
   const input = match[2]
-  const output = match[3].replace('|', '')
+  const output = match[3]
   if (skip) {
     return `  // expect(getTabCompletion('${input}')).toEqual('${output}')`
   } else {

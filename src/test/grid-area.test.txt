@@ -4,6 +4,6 @@ input:
 ga
 
 output:
-grid-area: |
+grid-area: 
 
 --------------------

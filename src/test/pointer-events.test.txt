@@ -4,7 +4,7 @@ input:
 pointerevents
 
 output:
-pointer-events: |
+pointer-events: 
 
 --------------------
 
@@ -12,7 +12,7 @@ input:
 pe
 
 output:
-pointer-events: |
+pointer-events: 
 
 --------------------
 
@@ -20,7 +20,7 @@ input:
 pen
 
 output:
-pointer-events: none;|
+pointer-events: none;
 
 --------------------
 
@@ -28,7 +28,7 @@ input:
 pea
 
 output:
-pointer-events: auto;|
+pointer-events: auto;
 
 --------------------
 (skip)
@@ -36,6 +36,6 @@ input:
 point-events
 
 output:
-pointer-events: |
+pointer-events: 
 
 --------------------

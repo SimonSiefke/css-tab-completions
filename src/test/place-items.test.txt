@@ -12,6 +12,6 @@ input:
 pla
 
 output:
-place-items: |
+place-items: 
 
 --------------------

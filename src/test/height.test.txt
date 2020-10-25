@@ -1,8 +1,10 @@
+--------------------
+
 input:
 height
 
 output:
-height: |
+height: 
 
 --------------------
 
@@ -10,12 +12,14 @@ input:
 h
 
 output:
-height: |
+height: 
 
 --------------------
-
+(skip)
 input:
 h10
 
 output:
 height: 10px;
+
+--------------------

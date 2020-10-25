@@ -4,6 +4,6 @@ input:
 pl
 
 output:
-padding-left: |
+padding-left: 
 
 --------------------

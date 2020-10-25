@@ -4,7 +4,7 @@ input:
 right
 
 output:
-right: |
+right: 
 
 --------------------
 
@@ -12,6 +12,6 @@ input:
 r
 
 output:
-right: |
+right: 
 
 --------------------

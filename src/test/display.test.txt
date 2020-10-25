@@ -1,10 +1,18 @@
 --------------------
 
 input:
+display
+
+output:
+display: 
+
+--------------------
+
+input:
 d
 
 output:
-display: |
+display: 
 
 --------------------
 

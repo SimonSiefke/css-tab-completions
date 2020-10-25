@@ -4,7 +4,7 @@ input:
 box-sizing
 
 output:
-box-sizing: |
+box-sizing: 
 
 --------------------
 
@@ -12,6 +12,6 @@ input:
 bsbb
 
 output:
-box-sizing: border-box;|
+box-sizing: border-box;
 
 --------------------

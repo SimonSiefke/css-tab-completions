@@ -4,7 +4,7 @@ input:
 border-radius
 
 output:
-border-radius: |
+border-radius: 
 
 --------------------
 
@@ -12,6 +12,6 @@ input:
 br
 
 output:
-border-radius: |
+border-radius: 
 
 --------------------

@@ -1,9 +1,17 @@
 --------------------
 
 input:
+color
+
+output:
+color: 
+
+--------------------
+
+input:
 c
 
 output:
-color: |
+color: 
 
 --------------------

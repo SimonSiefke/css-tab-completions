@@ -4,6 +4,6 @@ input:
 bgc
 
 output:
-background-color: |
+background-color: 
 
 --------------------

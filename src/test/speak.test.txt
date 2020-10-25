@@ -4,7 +4,7 @@ input:
 spek
 
 output:
-speak: |
+speak: 
 
 --------------------
 
@@ -12,6 +12,6 @@ input:
 speak
 
 output:
-speak: |
+speak: 
 
 --------------------

@@ -4,7 +4,7 @@ input:
 border-bottom
 
 output:
-border-bottom: |
+border-bottom: 
 
 --------------------
 
@@ -12,6 +12,6 @@ input:
 bb
 
 output:
-border-bottom: |
+border-bottom: 
 
 --------------------
