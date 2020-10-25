@@ -11,6 +11,7 @@
   },
   "appearance": {
     "ap": "appearance: none;",
+    "an": "appearance: none;",
     "apn": "appearance: none;",
     "appearance": "appearance: none;"
   },
@@ -35,6 +36,9 @@
     "br": "border-radius: ",
     "border-radius": "border-radius: "
   },
+  "border-top": {
+    "bt": "border-top: "
+  },
   "bottom": {
     "b": "bottom: ",
     "bottom": "bottom: "
@@ -46,6 +50,10 @@
   "color": {
     "c": "color: ",
     "color": "color: "
+  },
+  "contain": {
+    "cs": "contain: strict;",
+    "contain": "contain: "
   },
   "cursor": {
     "cu": "cursor: ",
@@ -108,6 +116,22 @@
     "ls": "list-style: none;",
     "list-style": "list-style: "
   },
+  "margin-left": {
+    "ml": "margin-left: ",
+    "margin-left": "margin-left: "
+  },
+  "margin-right": {
+    "mr": "margin-right: ",
+    "margin-right": "margin-right: "
+  },
+  "margin-bottom": {
+    "mb": "margin-bottom: ",
+    "margin-bottom": "margin-bottom: "
+  },
+  "margin-top": {
+    "mt": "margin-top: ",
+    "margin-top": "margin-top: "
+  },
   "margin": {
     "m": "margin:",
     "margin": "margin: "
@@ -124,6 +148,10 @@
     "ol": "outline:",
     "oln": "outline: none;",
     "outline": "outline: "
+  },
+  "overflow": {
+    "oh": "overflow: hidden;",
+    "overflow": "overflow: hidden;"
   },
   "padding": {
     "p": "padding: ",
@@ -149,9 +177,9 @@
     "pointer-events": "pointer-events: "
   },
   "position": {
-    "posa": "position: absolute;",
-    "posf": "position: fixed;",
-    "posr": "position: relative;",
+    "psa": "position: absolute;",
+    "psf": "position: fixed;",
+    "psr": "position: relative;",
     "position": "position: "
   },
   "right": {
