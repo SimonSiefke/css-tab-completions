@@ -424,6 +424,7 @@
   },
   "top": {
     "t": "top: ",
+    "t0": "top: 0;",
     "top": "top: "
   },
   "transform-origin": {
