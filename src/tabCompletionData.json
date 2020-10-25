@@ -2,6 +2,10 @@
   "all": {
     "au": "all: unset;"
   },
+  "align-content": {
+    "ac": "align-content: ",
+    "align-content": "align-content: "
+  },
   "align-items": {
     "ai": "align-items: ",
     "aic": "align-items: center;",
@@ -13,13 +17,18 @@
     "align-self": "align-self: "
   },
   "animation": {
-    "an": "animation: "
+    "an": "animation: ",
+    "animation": "animation: "
   },
   "appearance": {
     "ap": "appearance: none;",
     "an": "appearance: none;",
     "apn": "appearance: none;",
     "appearance": "appearance: none;"
+  },
+  "backdrop-filter": {
+    "bf": "backdrop-filter: ",
+    "backdrop-filter": "backdrop-filter: "
   },
   "backface-visibility": {
     "bfvh": "backface-visibility: hidden;",
@@ -41,6 +50,14 @@
   "background": {
     "bg": "background: ",
     "background": "background: "
+  },
+  "bleed": {
+    "bl": "bleed: ",
+    "bleed": "bleed: "
+  },
+  "break-inside": {
+    "bi": "break-inside: ",
+    "break-inside": "break-inside: "
   },
   "border-bottom": {
     "bb": "border-bottom: ",
@@ -64,6 +81,12 @@
   "bottom": {
     "b": "bottom: ",
     "bottom": "bottom: "
+  },
+  "box-decoration-break": {
+    "bdb": "box-decoration-break: ",
+    "bdbc": "box-decoration-break: clone;",
+    "bdbs": "box-decoration-break: slice;",
+    "box-decoration-break": "box-decoration-break: "
   },
   "box-shadow": {
     "bs": "box-shadow: "
@@ -104,6 +127,11 @@
   "counter-reset": {
     "counter-reset": "counter-reset: "
   },
+  "direction": {
+    "dir": "direction: rtl;",
+    "dil": "direction: ltr;",
+    "direction": "direction: "
+  },
   "display": {
     "d": "display: ",
     "dn": "display: none;",
@@ -111,6 +139,9 @@
     "db": "display: block;",
     "dg": "display: grid;",
     "display": "display: "
+  },
+  "fill": {
+    "fill": "fill: "
   },
   "filter": {
     "f": "filter: ",
@@ -137,12 +168,21 @@
     "flw": "flex-wrap:",
     "flex-wrap": "flex-wrap: "
   },
+  "font-display": {
+    "fds": "font-display: swap;",
+    "font-display": "font-display: "
+  },
   "font-family": {
     "ff": "font-family: ",
     "font-family": "font-family: "
   },
+  "font-feature-settings": {
+    "ffs": "font-feature-settings",
+    "font-feature-settings": "font-feature-settings: "
+  },
   "font-size": {
     "fz": "font-size: ",
+    "fzi": "font-size: inherit",
     "font-size": "font-size: "
   },
   "font-style": {
@@ -170,10 +210,27 @@
     "gtr": "grid-template-rows: ",
     "grid-template-rows": "grid-template-rows: "
   },
+  "hanging-punctuation": {
+    "hanging-punctuation": "hanging-punctuation: "
+  },
   "height": {
     "h": "height: ",
     "height": "height: "
   },
+  "hyphens": {
+    "hn": "hyphens: none;",
+    "hm": "hyphens: manual;",
+    "ha": "hyphens: auto;",
+    "hyphens": "hyphens: "
+  },
+  "image-rendering": {
+    "ir": "image-rendering: ",
+    "image-rendering": "image-rendering: "
+  },
+  "initial-letter": {
+    "initial-letter": "initial-letter: "
+  },
+  "isolation": {},
   "justify-content": {
     "jc": "justify-content: ",
     "justify-content": "justify-content: "
@@ -183,7 +240,7 @@
     "left": "left: "
   },
   "letter-spacing": {
-    "les": "letter-spacing: ",
+    "ls": "letter-spacing: ",
     "letter-spacing": "letter-spacing: "
   },
   "line-height": {
@@ -191,7 +248,7 @@
     "line-height": "line-height: "
   },
   "list-style": {
-    "ls": "list-style: none;",
+    "lsn": "list-style: none;",
     "list-style": "list-style: "
   },
   "list-style-type": {
@@ -199,7 +256,7 @@
     "list-style-type": "list-style-type: "
   },
   "list-style-position": {
-    "lsp": "list-style-position: ",
+    "lspo": "list-style-position: ",
     "list-style-position": "list-style-position: "
   },
   "list-style-image": {
@@ -233,6 +290,10 @@
   "max-width": {
     "maw": "max-width: ",
     "max-width": "max-width: "
+  },
+  "mix-blend-mode": {
+    "mbm": "mix-blend-mode: multiply;",
+    "mix-blend-mode": "mix-blend-mode: "
   },
   "opacity": {
     "o": "opacity: ",
@@ -310,6 +371,12 @@
   "scroll-behavior": {
     "sbs": "scroll-behavior: smooth"
   },
+  "speak": {
+    "speak": "speak: "
+  },
+  "speak-as": {
+    "speak-as": "speak-as: "
+  },
   "tab-size": {
     "ts": "tab-size: ",
     "tab-size": "tab-size: "
@@ -339,9 +406,16 @@
     "to": "transform-origin: ",
     "transform-origin": "transform-origin: "
   },
+  "unicode-bidi": {
+    "ub": "unicode-bidi: ",
+    "unicode-bidi": "unicode-bidi: "
+  },
   "user-select": {
     "usn": "user-select: none;",
     "user-select": "user-select: "
+  },
+  "vertical-align": {
+    "vam": "vertical-align: middle;"
   },
   "visibility": {
     "vh": "visibility: hidden;",
@@ -350,6 +424,11 @@
   "white-space": {
     "wsn": "white-space: nowrap",
     "white-space": "white-space: "
+  },
+  "will-change": {
+    "wit": "will-change: transform;",
+    "wio": "will-change: opacity",
+    "will-change": "will-change: "
   },
   "width": {
     "w": "width: ",
