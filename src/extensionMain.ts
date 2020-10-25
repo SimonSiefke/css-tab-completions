@@ -9,6 +9,8 @@ const cssTabCompletion = (textEditor: vscode.TextEditor) => {
   const tabCompletion = getTabCompletion(partialWord)
   if (tabCompletion) {
     textEditor.insertSnippet(new vscode.SnippetString(tabCompletion), wordRange)
+  } else {
+    vscode.commands.executeCommand('tab')
   }
 }
 

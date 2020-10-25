@@ -57,6 +57,7 @@
     "dn": "display: none;",
     "df": "display: flex;",
     "db": "display: block;",
+    "dg": "display: grid;",
     "display": "display: "
   },
   "flex-grow": {
