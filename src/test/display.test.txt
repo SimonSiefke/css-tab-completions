@@ -39,3 +39,11 @@ output:
 display: none;
 
 --------------------
+
+input:
+dg
+
+output:
+display: grid;
+
+--------------------
