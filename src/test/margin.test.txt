@@ -1,9 +1,33 @@
 --------------------
 
 input:
+margin
+
+output:
+margin: 
+
+--------------------
+
+input:
 m
 
 output:
-margin:
+margin: 
+
+--------------------
+
+input:
+ma
+
+output:
+margin: auto;
+
+--------------------
+
+input:
+m0a
+
+output:
+margin: 0 auto;
 
 --------------------

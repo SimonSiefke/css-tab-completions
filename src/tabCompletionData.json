@@ -290,7 +290,9 @@
     "margin-top": "margin-top: "
   },
   "margin": {
-    "m": "margin:",
+    "m": "margin: ",
+    "m0a": "margin: 0 auto;",
+    "ma": "margin: auto;",
     "margin": "margin: "
   },
   "mask-image": {
