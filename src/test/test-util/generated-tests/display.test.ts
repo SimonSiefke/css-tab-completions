@@ -7,4 +7,5 @@ test('display.test.txt', () => {
   expect(getTabCompletion('df')).toEqual('display: flex;')
   expect(getTabCompletion('dn')).toEqual('display: none;')
   expect(getTabCompletion('dg')).toEqual('display: grid;')
+  expect(getTabCompletion('dib')).toEqual('display: inline-block;')
 })

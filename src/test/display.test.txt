@@ -47,3 +47,11 @@ output:
 display: grid;
 
 --------------------
+
+input:
+dib
+
+output:
+display: inline-block;
+
+--------------------
