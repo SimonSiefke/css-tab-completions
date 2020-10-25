@@ -1,7 +1,7 @@
 import * as vscode from 'vscode'
 import { getTabCompletion } from './tabCompletion'
 
-const RE_WORD = /[a-zA-Z\-]+/
+const RE_WORD = /[\w\-]+/
 
 const cssTabCompletion = (textEditor: vscode.TextEditor) => {
   const wordRange = textEditor.document.getWordRangeAtPosition(
